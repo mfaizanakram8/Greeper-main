@@ -323,8 +323,8 @@ const Home = () => {
           <div>
             <p className="font-roboto text-[#FFFFFC] py-1 text-[13px] font-extralight">
             
-              <span className=" font-extralight">
-                YOUR PARTNER FOR A TRANSPARENT AND SUSTAINABLE WORLD
+        <span className=" font-extralight">
+        &ordm;&nbsp;YOUR PARTNER FOR A TRANSPARENT AND SUSTAINABLE WORLD
               </span>
             </p>
             <p className="font-roboto text-white font-semibold py-2 text-[38px] pl-2">
