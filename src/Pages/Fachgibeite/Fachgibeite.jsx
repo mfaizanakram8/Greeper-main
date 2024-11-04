@@ -419,7 +419,7 @@ const Home = () => {
 
 <div className="h-[700px]  flex justify-center items-center">
         <div className="w-[70%] h-[500px] bg-[#FFFFFC] rounded-3xl flex flex-row  justify-between  ">
-            <div className="flex flex-col w-[45%]  justify-between items-center text-center mt-20">
+            <div className="flex flex-col w-[50%]  justify-between items-center text-center mt-20">
             <h1 className="text-[38px] text-green font-bold  ml-10">Wir unterstützen Sie dabei, Ihre Vakanzen schnell und effizient{""}
                 <span className="flex float-start ml-4">zu besetzen.</span>
             </h1>
