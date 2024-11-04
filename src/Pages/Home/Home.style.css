@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollable {
+    overflow: auto; /* Allow scrolling */
+    scrollbar-width: none; /* Firefox */
+}
+
+.scrollable::-webkit-scrollbar {
+    display: none; /* Safari and Chrome */
+}
